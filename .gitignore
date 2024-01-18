@@ -51,3 +51,4 @@ start/.gradle/vcs-1/gc.properties
 /.idea/migrations.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/.idea/.gitignore
