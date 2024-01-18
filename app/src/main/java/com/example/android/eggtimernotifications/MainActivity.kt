@@ -18,6 +18,7 @@ package com.example.android.eggtimernotifications
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.android.R
 import com.example.android.eggtimernotifications.ui.EggTimerFragment
 
 class MainActivity : AppCompatActivity() {
